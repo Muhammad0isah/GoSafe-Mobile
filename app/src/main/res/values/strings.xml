@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoSafe</string>
+    <string name="start">Start mim OE</string>
+    <string name="authorize">Authorize</string>
+    <string name="get_random_number">Get Random Number</string>
+    <string name="clear">Clear mim OE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_map"
+        android:icon="@drawable/map_marker"
+        android:title="Map"/>
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="Chat"/>
+    <item
+        android:id="@+id/nav_notification"
+        android:icon="@drawable/baseline_notifications_black_24"
+        android:title="Notification"/>
+</menu>

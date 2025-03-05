@@ -1,0 +1,7 @@
+<resources>
+    <style name="CustomBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconTint">@color/dark_green</item>
+        <item name="itemTextColor">@color/dark_green</item>
+        <item name="android:layout_height">56dp</item>
+    </style>
+</resources>
